@@ -69,10 +69,10 @@
 **Other:**
 
 > [![Lapce](https://api.iconify.design/simple-icons/lapce.svg?height=32&color=%233192d6 "Lapce")](https://lapce.dev/) &nbsp;
-[![RISC-V](https://api.iconify.design/simple-icons/riscv.svg?height=32&color=%23F5B21B "RISC-V")](https://www.arduino.cc/) &nbsp;
 [![Raspberry Pi](https://api.iconify.design/logos/raspberry-pi.svg?height=32 "Raspberry Pi")](https://www.raspberrypi.com/) &nbsp;
 [![Matrix](https://api.iconify.design/tabler/brand-matrix.svg?height=32&color=%23AAAAAA "Matrix")](https://matrix.org/) &nbsp;
 [![Lemmy](https://api.iconify.design/simple-icons/lemmy.svg?height=32&color=%23AAAAAA "Lemmy")](https://join-lemmy.org/) &nbsp;
 [![KeePassXC](https://api.iconify.design/simple-icons/keepassxc.svg?height=32&color=%23559B30 "KeePassXC")](https://keepassxc.org/) &nbsp;
 [![SearXNG](https://api.iconify.design/simple-icons/searxng.svg?height=32&color=%233050FF "SearXNG")](https://docs.searxng.org/) &nbsp;
+[![RISC-V](https://api.iconify.design/simple-icons/riscv.svg?height=32&color=%23E09A19 "RISC-V")](https://riscv.org/) &nbsp;
 [![Nextcloud](https://api.iconify.design/simple-icons/nextcloud.svg?height=32&color=%230068A1 "Nextcloud")](https://nextcloud.com/athome/) &nbsp;
