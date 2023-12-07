@@ -30,10 +30,10 @@
 > [![Go](https://api.iconify.design/devicon/go.svg?height=32 "Go")](https://go.dev/) &nbsp;
 [<img src="https://tinygo.org/images/tinygo-logo.png" alt="TinyGo" title="TinyGo" height=32>](https://tinygo.org/) &nbsp;
 [![Zig](https://api.iconify.design/devicon/zig.svg?color=white&height=32 "Zig")](https://ziglang.org) &nbsp;
-[![Rust](https://api.iconify.design/cib/rust.svg?color=white&height=32 "Rust")](https://www.rust-lang.org/) &nbsp;
+[![Rust](https://api.iconify.design/skill-icons/rust.svg?color=white&height=32 "Rust")](https://www.rust-lang.org/) &nbsp;
 ![C](https://api.iconify.design/devicon/c.svg?color=white&height=32 "C") &nbsp;
 [![Ruby](https://api.iconify.design/logos/ruby.svg?height=32 "Ruby")](https://www.ruby-lang.org/en/) &nbsp;
-![Bash](https://api.iconify.design/devicon-plain/bash.svg?color=white&height=32 "Bash") &nbsp;
+![Bash](https://api.iconify.design/skill-icons/bash-dark.svg?color=white&height=32 "Bash") &nbsp;
 ![JavaScript](https://api.iconify.design/logos/javascript.svg?height=32 "JavaScript") &nbsp;
 ![HTML5](https://api.iconify.design/skill-icons/html.svg?height=32 "HTML") &nbsp;
 ![CSS3](https://api.iconify.design/skill-icons/css.svg?height=32 "CSS") &nbsp;
@@ -54,9 +54,9 @@
 [![Traefik](https://api.iconify.design/devicon/traefikproxy.svg?height=32 "Traefik Proxy")](https://traefik.io/traefik) &nbsp;
 [![Nginx](https://api.iconify.design/logos/nginx.svg?height=32 "Nginx")](https://nginx.org/) &nbsp;
 [![Gitea](https://api.iconify.design/simple-icons/gitea.svg?color=%23609926&height=32 "Gitea")](https://gitea.elara.ws/) &nbsp;
-[<img src="https://github.com/Elara6331/Elara6331/assets/41810442/96da1482-fc3d-406b-a806-72f410e4fe92" alt="Woodpecker CI" title="Woodpecker CI" height=32>](https://woodpecker-ci.org/) &nbsp;
-[![GoReleaser](https://api.iconify.design/file-icons/goreleaser.svg?color=white&height=32 "GoReleaser")](https://goreleaser.com/) &nbsp;
-[![systemd](https://api.iconify.design/vscode-icons/file-type-systemd.svg?color=white&height=32 "systemd")](https://systemd.io/) &nbsp;
+[<img src="https://api.minio.elara.ws/adl/woodpecker-ci.png" alt="Woodpecker CI" title="Woodpecker CI" height=32>](https://woodpecker-ci.org/) &nbsp;
+[![GoReleaser](https://api.iconify.design/file-icons/goreleaser.svg?color=%233B5672&height=32 "GoReleaser")](https://goreleaser.com/) &nbsp;
+[![systemd](https://api.iconify.design/vscode-icons/file-type-systemd.svg?color=%23AAAAAA&height=32 "systemd")](https://systemd.io/) &nbsp;
 
 
 **Operating Systems**
@@ -70,9 +70,8 @@
 
 > [![Arduino](https://api.iconify.design/devicon/arduino.svg?height=32 "Arduino")](https://www.arduino.cc/) &nbsp;
 [![Raspberry Pi](https://api.iconify.design/logos/raspberry-pi.svg?height=32 "Raspberry Pi")](https://www.raspberrypi.com/) &nbsp;
-[![Matrix](https://api.iconify.design/tabler/brand-matrix.svg?height=32&color=white "Matrix")](https://matrix.org/) &nbsp;
-[![Lemmy](https://api.iconify.design/simple-icons/lemmy.svg?height=32&color=white "Lemmy")](https://join-lemmy.org/) &nbsp;
+[![Matrix](https://api.iconify.design/tabler/brand-matrix.svg?height=32&color=%23AAAAAA "Matrix")](https://matrix.org/) &nbsp;
+[![Lemmy](https://api.iconify.design/simple-icons/lemmy.svg?height=32&color=%23AAAAAA "Lemmy")](https://join-lemmy.org/) &nbsp;
 [![KeePassXC](https://api.iconify.design/simple-icons/keepassxc.svg?height=32&color=%23559B30 "KeePassXC")](https://keepassxc.org/) &nbsp;
 [![SearXNG](https://api.iconify.design/simple-icons/searxng.svg?height=32&color=%233050FF "SearXNG")](https://docs.searxng.org/) &nbsp;
 [![Nextcloud](https://api.iconify.design/simple-icons/nextcloud.svg?height=32&color=%230068A1 "Nextcloud")](https://nextcloud.com/athome/) &nbsp;
-
