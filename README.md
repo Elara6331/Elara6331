@@ -55,24 +55,28 @@
 [![Nginx](https://api.iconify.design/logos/nginx.svg?height=32 "Nginx")](https://nginx.org/) &nbsp;
 [![Gitea](https://api.iconify.design/simple-icons/gitea.svg?color=%23609926&height=32 "Gitea")](https://gitea.elara.ws/) &nbsp;
 [<img src="https://api.minio.elara.ws/adl/woodpecker-ci.png" alt="Woodpecker CI" title="Woodpecker CI" height=32>](https://woodpecker-ci.org/) &nbsp;
-[![GoReleaser](https://api.iconify.design/file-icons/goreleaser.svg?color=%233B5672&height=32 "GoReleaser")](https://goreleaser.com/) &nbsp;
-[![systemd](https://api.iconify.design/vscode-icons/file-type-systemd.svg?color=%23AAAAAA&height=32 "systemd")](https://systemd.io/) &nbsp;
+[![Raspberry Pi](https://api.iconify.design/logos/raspberry-pi.svg?height=32 "Raspberry Pi")](https://www.raspberrypi.com/) &nbsp;
+[![RISC-V](https://api.iconify.design/simple-icons/riscv.svg?height=32&color=%23E09A19 "RISC-V")](https://riscv.org/) &nbsp;
 
-
-**Operating Systems**
+**Operating Systems:**
 
 > [![Linux](https://api.iconify.design/flat-color-icons/linux.svg?height=32 "Linux")](https://www.kernel.org/) &nbsp;
 [![Debian](https://api.iconify.design/logos/debian.svg?height=32 "Debian")](https://www.debian.org/) &nbsp;
 [![Arch Linux](https://api.iconify.design/logos/archlinux.svg?height=32 "Debian")](https://www.archlinux.org/) &nbsp;
 [![OpenSUSE](https://api.iconify.design/devicon/opensuse.svg?height=32 "OpenSUSE")](https://www.opensuse.org/) &nbsp;
 
-**Other:**
+**Services:**
 
-> [![Lapce](https://api.iconify.design/simple-icons/lapce.svg?height=32&color=%233192d6 "Lapce")](https://lapce.dev/) &nbsp;
-[![Raspberry Pi](https://api.iconify.design/logos/raspberry-pi.svg?height=32 "Raspberry Pi")](https://www.raspberrypi.com/) &nbsp;
+> [![Home Assistant](https://api.iconify.design/mdi/home-assistant.svg?height=32&color=%233FBAF0 "Home Assistant")](https://www.home-assistant.io//) &nbsp;
 [![Matrix](https://api.iconify.design/tabler/brand-matrix.svg?height=32&color=%23AAAAAA "Matrix")](https://matrix.org/) &nbsp;
 [![Lemmy](https://api.iconify.design/simple-icons/lemmy.svg?height=32&color=%23AAAAAA "Lemmy")](https://join-lemmy.org/) &nbsp;
-[![KeePassXC](https://api.iconify.design/simple-icons/keepassxc.svg?height=32&color=%23559B30 "KeePassXC")](https://keepassxc.org/) &nbsp;
 [![SearXNG](https://api.iconify.design/simple-icons/searxng.svg?height=32&color=%233050FF "SearXNG")](https://docs.searxng.org/) &nbsp;
-[![RISC-V](https://api.iconify.design/simple-icons/riscv.svg?height=32&color=%23E09A19 "RISC-V")](https://riscv.org/) &nbsp;
 [![Nextcloud](https://api.iconify.design/simple-icons/nextcloud.svg?height=32&color=%230068A1 "Nextcloud")](https://nextcloud.com/athome/) &nbsp;
+
+**Apps:**
+
+> [![Lapce](https://api.iconify.design/simple-icons/lapce.svg?height=32&color=%233192d6 "Lapce")](https://lapce.dev/) &nbsp;
+[![KeePassXC](https://api.iconify.design/simple-icons/keepassxc.svg?height=32&color=%23559B30 "KeePassXC")](https://keepassxc.org/) &nbsp;
+[![Wayland](https://api.iconify.design/simple-icons/wayland.svg?height=32&color=%23FFBC00 "Wayland")](https://wayland.freedesktop.org/) &nbsp;
+[![Firefox](https://api.iconify.design/logos/firefox.svg?height=32 "Firefox")](https://www.mozilla.org/en-US/firefox/) &nbsp;
+
