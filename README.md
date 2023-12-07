@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://gitea.elara.ws/Elara6331"><img alt="Gitea Badge" src="https://img.shields.io/badge/gitea-609926?logo=gitea&logoColor=white&style=for-the-badge"></a>&nbsp;
   <a href="https://www.elara.ws"><img alt="Website Badge" src="https://img.shields.io/badge/Website-blue?style=for-the-badge"></a>&nbsp;
-  <a href="https://www.elara.ws/index.xml"><img alt="RSS Badge" src="https://img.shields.io/badge/RSS-orange?style=for-the-badge&logo=rss&logoColor=white"></a>
+  <a href="https://www.elara.ws/articles/index.xml"><img alt="RSS Badge" src="https://img.shields.io/badge/RSS-orange?style=for-the-badge&logo=rss&logoColor=white"></a>
 </p>
 
 
