@@ -68,7 +68,8 @@
 
 **Other:**
 
-> [![Arduino](https://api.iconify.design/devicon/arduino.svg?height=32 "Arduino")](https://www.arduino.cc/) &nbsp;
+> [![Lapce](https://api.iconify.design/simple-icons/lapce.svg?height=32&color=%233192d6 "Lapce")](https://lapce.dev/) &nbsp;
+[![Arduino](https://api.iconify.design/devicon/arduino.svg?height=32 "Arduino")](https://www.arduino.cc/) &nbsp;
 [![Raspberry Pi](https://api.iconify.design/logos/raspberry-pi.svg?height=32 "Raspberry Pi")](https://www.raspberrypi.com/) &nbsp;
 [![Matrix](https://api.iconify.design/tabler/brand-matrix.svg?height=32&color=%23AAAAAA "Matrix")](https://matrix.org/) &nbsp;
 [![Lemmy](https://api.iconify.design/simple-icons/lemmy.svg?height=32&color=%23AAAAAA "Lemmy")](https://join-lemmy.org/) &nbsp;
