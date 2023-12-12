@@ -8,7 +8,7 @@
 </p>
 
 
-## 📆 Hobbies
+## 💡 Interests
 
 - Software Engineering
 - Embedded Programming
