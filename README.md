@@ -80,3 +80,8 @@
 [![Wayland](https://api.iconify.design/simple-icons/wayland.svg?height=32&color=%23FFBC00 "Wayland")](https://wayland.freedesktop.org/) &nbsp;
 [![Firefox](https://api.iconify.design/logos/firefox.svg?height=32 "Firefox")](https://www.mozilla.org/en-US/firefox/) &nbsp;
 
+## ❤️ Donate
+
+If you like my work and would like to support me, you can donate on LiberaPay:
+
+[![LiberaPay Badge](https://img.shields.io/badge/Donate-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/Elara6331/)
