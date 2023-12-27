@@ -100,3 +100,8 @@ Bitcoin:
 ```text
 bc1q4r5yd2jkq2hrufmdp0plcnzactj2twhux042ds
 ```
+
+Ethereum:
+```text
+0xE472CC85754a47ea4c1e4ED3118442e88A8fa7b8
+```
