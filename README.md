@@ -82,6 +82,21 @@
 
 ## ❤️ Donate
 
-If you like my work and would like to support me, you can donate on LiberaPay:
+If you like my work and would like to support me, you can donate on LiberaPay or via crypto:
 
 [![LiberaPay Badge](https://img.shields.io/badge/Donate-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/Elara6331/)
+
+Monero:
+```text
+47bS62nDtEvZadraJgXTfgC58vqCsNXoefMqQY4kgB2p3x4mwfy6CCw4iP5htnX9becaumQrtuKYTVZnfVQGP4pn23nMCAZ
+```
+
+Litecoin:
+```text
+LMSwGbSo89wHsNtjtsHcCBigauSe8LWfqU
+```
+
+Bitcoin:
+```text
+bc1q4r5yd2jkq2hrufmdp0plcnzactj2twhux042ds
+```
