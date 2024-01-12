@@ -88,20 +88,20 @@ If you like my work and would like to support me, you can donate on LiberaPay or
 
 Monero:
 ```text
-47bS62nDtEvZadraJgXTfgC58vqCsNXoefMqQY4kgB2p3x4mwfy6CCw4iP5htnX9becaumQrtuKYTVZnfVQGP4pn23nMCAZ
+445RV3H4VMY2jy4sunNy5ZMCc8rEndkg2TAHXg6pDPRxQqFhoEZxaaoLpMFQSVebqmgs1qoGsNTtbh8P3m18hizM1jzQp27
 ```
 
 Litecoin:
 ```text
-LMSwGbSo89wHsNtjtsHcCBigauSe8LWfqU
+LTJorTTDLQTuDAsiKog64RceMZRkpnFGDt
 ```
 
 Bitcoin:
 ```text
-bc1q4r5yd2jkq2hrufmdp0plcnzactj2twhux042ds
+bc1qznr45tt5ueeaej7l2lv2v8zhuqu6q6qgt82unx
 ```
 
 Ethereum:
 ```text
-0xE472CC85754a47ea4c1e4ED3118442e88A8fa7b8
+0xc0d06eF11b88bF6FF406fA2E3406a54539F336e9
 ```
