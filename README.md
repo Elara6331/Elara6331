@@ -43,7 +43,7 @@
 
 > [![Bulma](https://api.iconify.design/logos/bulma.svg?height=32 "Bulma")](https://bulma.io/) &nbsp;
 [![Svelte](https://api.iconify.design/devicon/svelte.svg?height=32 "Svelte")](https://svelte.dev/) &nbsp;
-[<img src="https://lure.sh/lure-no-text.svg" alt="LURE" title="LURE" height=32>](https://lure.sh) &nbsp;
+[<img src="https://lure.sh/static/icons/lure-no-text.svg" alt="LURE" title="LURE" height=32>](https://lure.sh) &nbsp;
 [![SQLite](https://api.iconify.design/devicon/sqlite.svg?height=32 "SQLite")](https://www.sqlite.org/) &nbsp;
 
 **DevOps and Sysadmin:**
